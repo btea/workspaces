@@ -1,0 +1,24 @@
+{
+    "private": "true",
+    "workspaces": [
+        "one",
+        "two"
+    ],
+    "name": "workspaces-test",
+    "version": "0.0.1",
+    "description": "[yarn workspaces](https://yarn.bootcss.com/docs/workspaces/)   [npm workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/btea/workspaces.git"
+    },
+    "author": "btea",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/btea/workspaces/issues"
+    },
+    "homepage": "https://github.com/btea/workspaces#readme"
+}
